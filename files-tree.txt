@@ -1,0 +1,57 @@
+simple-cms
+|   content.php
+|   db.php
+|   index.php
+|   login.php
+|   logout.php
+|   session.php
+|   files-tree.txt
+|   
++---css
+|   |   bootstrap-theme.css
+|   |   bootstrap-theme.css.map
+|   |   bootstrap-theme.min.css
+|   |   bootstrap-theme.min.css.map
+|   |   bootstrap.css
+|   |   bootstrap.css.map
+|   |   bootstrap.min.css
+|   |   bootstrap.min.css.map
+|   |   font-awesome.css
+|   |   font-awesome.min.css
+|   |   style.css
+|   |   
+|   \---img
+|           green.png
+|           green@2x.png
+|           
++---fonts
+|       fontawesome-webfont.eot
+|       fontawesome-webfont.svg
+|       fontawesome-webfont.ttf
+|       fontawesome-webfont.woff
+|       fontawesome-webfont.woff2
+|       FontAwesome.otf
+|       glyphicons-halflings-regular.eot
+|       glyphicons-halflings-regular.svg
+|       glyphicons-halflings-regular.ttf
+|       glyphicons-halflings-regular.woff
+|       glyphicons-halflings-regular.woff2
+|       
++---img
+|       logo.png
+|       
++---js
+|       bootstrap.js
+|       bootstrap.min.js
+|       icheck.min.js
+|       jquery-1.12.0.min.js
+|       jquery-ui.min.js
+|       npm.js
+|       
+\---php
+    \---company
+            addCompany.php
+            deleteCompany.php
+            editCompany.php
+            insertCompany.php
+            
